@@ -6,6 +6,14 @@ import Accordoin from "./components/Accordion";
 function App() {
   return (
     <>
+      <a
+        className="link"
+        rel="noreferrer"
+        href="https://github.com/ShubhamChavhan09/faq-page"
+        target="_blank"
+      >
+        Github
+      </a>
       <div className="container">
         <div className="App">
           <Image />
